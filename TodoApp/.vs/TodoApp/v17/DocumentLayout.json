@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TodoApp\\TodoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEDDF625-F90F-4D8B-8AF1-215ECF1800C6}|TodoApp.vcxproj|D:\\TodoApp\\TodoApp\\TodoApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CEDDF625-F90F-4D8B-8AF1-215ECF1800C6}|TodoApp.vcxproj|solutionrelative:TodoApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoApp.cpp",
+              "DocumentMoniker": "D:\\TodoApp\\TodoApp\\TodoApp.cpp",
+              "RelativeDocumentMoniker": "TodoApp.cpp",
+              "ToolTip": "D:\\TodoApp\\TodoApp\\TodoApp.cpp",
+              "RelativeToolTip": "TodoApp.cpp",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T10:08:20.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
